@@ -1,0 +1,2 @@
+# goarea
+Simple Go lib
